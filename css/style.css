@@ -1,15 +1,15 @@
 *{
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
-    font-family: 'IBM Plex Mono', monospace;
-    font-family: 'Kanit', sans-serif;
-    color: rgb(253, 253, 253);
+
 }
 
 
 body {
     background-image: url(../img/blue-pattern.jpg);
+    height: 100%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .space {
@@ -48,4 +48,159 @@ body {
 
 .animated-text .imglogo {
     width: 40vh;
+}
+
+.colTeam1{
+    border: red solid 1px;
+
+    
+}
+
+.team1{
+    border: red solid 1px;
+
+}
+
+.input1{
+    border: red solid 1px;
+    justify-content: center;
+    display: flex;
+}
+
+.inputBox1{
+    border: red solid 1px;
+    height: 3rem;
+    display: flex;
+}
+
+.input2{
+    border: red solid 1px;
+    justify-content: center;
+    display: flex;
+}
+
+.inputBox2{
+    border: red solid 1px;
+    height: 3rem;
+    display: flex;
+    
+}
+
+.team1Letter{
+    width:50px;
+    text-align: center;
+    font-weight: bold;
+}
+.team2Letter{
+    width:50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.team1guess1-1,
+.team1guess1-2,
+.team1guess1-3,
+.team1guess1-4,
+.team1guess1-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.team1guess2-1,
+.team1guess2-2,
+.team1guess2-3,
+.team1guess2-4,
+.team1guess2-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.team1guess3-1,
+.team1guess3-2,
+.team1guess3-3,
+.team1guess3-4,
+.team1guess3-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.team1guess4-1,
+.team1guess4-2,
+.team1guess4-3,
+.team1guess4-4,
+.team1guess4-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.team1guess5-1,
+.team1guess5-2,
+.team1guess5-3,
+.team1guess5-4,
+.team1guess5-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.team1guess6-1,
+.team1guess6-2,
+.team1guess6-3,
+.team1guess6-4,
+.team1guess6-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.team2guess1-1,
+.team2guess1-2,
+.team2guess1-3,
+.team2guess1-4,
+.team2guess1-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.team2guess2-1,
+.team2guess2-2,
+.team2guess2-3,
+.team2guess2-4,
+.team2guess2-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.team2guess3-1,
+.team2guess3-2,
+.team2guess3-3,
+.team2guess3-4,
+.team2guess3-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.team2guess4-1,
+.team2guess4-2,
+.team2guess4-3,
+.team2guess4-4,
+.team2guess4-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.team2guess5-1,
+.team2guess5-2,
+.team2guess5-3,
+.team2guess5-4,
+.team2guess5-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.team2guess6-1,
+.team2guess6-2,
+.team2guess6-3,
+.team2guess6-4,
+.team2guess6-5 {
+    display: inline-block;
+    margin-right: 10px; /* Adjust the margin as needed */
 }
