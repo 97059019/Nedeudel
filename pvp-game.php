@@ -147,6 +147,7 @@
             </div>
                 <div class="row-6 input2">
                     <div class="row-6 inputBox2">
+                        <form>
                     <input type="text" class="team2Letter" maxlength="1">
                     <input type="text" class="team2Letter" maxlength="1">
                     <input type="text" class="team2Letter" maxlength="1">
@@ -154,6 +155,7 @@
                     <input type="text" class="team2Letter" maxlength="1">
                     </div>
                     <input type="button" class="team2btn" value="Send">
+                        </form>
 
                 </div>
 
@@ -169,4 +171,23 @@
 
              
 </body>
+<?php
+require "connection.php";
+
+
+$t1letter1 =  $_POST['team1Letter1'];
+$t1letter2 =  $_POST['team1Letter2'];
+$t1letter3 =  $_POST['team1Letter3'];
+$t1letter4 =  $_POST['team1Letter4'];
+$t1letter5 =  $_POST['team1Letter5'];
+
+if (empty($email) || empty($password)) {
+    header('location: ../login.php?error=lemptyfield');
+    exit();
+}
+
+?>
+
+
+
 </html>
