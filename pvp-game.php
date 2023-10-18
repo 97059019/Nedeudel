@@ -35,7 +35,7 @@
       
         <div id="team1guess2" class="row-12">
             <a>2:</a>
-            <div class="team1guess1-1"><p>0</p></div>
+            <div class="team1guess2-1"><p>0</p></div>
             <div class="team1guess2-2"><p>0</p></div>
             <div class="team1guess2-3"><p>0</p></div>
             <div class="team1guess2-4"><p>0</p></div>

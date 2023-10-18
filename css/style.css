@@ -58,6 +58,7 @@ body {
 
 .team1{
     border: red solid 1px;
+    text-align: center;
 
 }
 
@@ -77,6 +78,7 @@ body {
     border: red solid 1px;
     justify-content: center;
     display: flex;
+    
 }
 
 .inputBox2{
@@ -90,11 +92,13 @@ body {
     width:50px;
     text-align: center;
     font-weight: bold;
+    margin-right: 8px;
 }
 .team2Letter{
     width:50px;
     text-align: center;
     font-weight: bold;
+    margin-right: 8px;
 }
 
 .team1guess1-1,
@@ -104,6 +108,11 @@ body {
 .team1guess1-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
 }
 
 .team1guess2-1,
@@ -113,6 +122,11 @@ body {
 .team1guess2-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
 }
 
 .team1guess3-1,
@@ -122,6 +136,11 @@ body {
 .team1guess3-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
 }
 
 .team1guess4-1,
@@ -131,6 +150,11 @@ body {
 .team1guess4-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
 }
 
 .team1guess5-1,
@@ -140,6 +164,11 @@ body {
 .team1guess5-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
 }
 
 .team1guess6-1,
@@ -149,6 +178,11 @@ body {
 .team1guess6-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
 }
 
 .team2guess1-1,
@@ -158,6 +192,11 @@ body {
 .team2guess1-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
 }
 
 .team2guess2-1,
@@ -167,6 +206,11 @@ body {
 .team2guess2-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
 }
 
 .team2guess3-1,
@@ -176,6 +220,11 @@ body {
 .team2guess3-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
 }
 
 .team2guess4-1,
@@ -185,6 +234,11 @@ body {
 .team2guess4-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
 }
 
 .team2guess5-1,
@@ -194,6 +248,11 @@ body {
 .team2guess5-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
 }
 
 .team2guess6-1,
@@ -203,4 +262,10 @@ body {
 .team2guess6-5 {
     display: inline-block;
     margin-right: 10px; /* Adjust the margin as needed */
+    margin-bottom: 10px;
+    height:50px;
+    width: 50px;
+    background-color: white;
+    border: black 2px solid;
+    
 }
